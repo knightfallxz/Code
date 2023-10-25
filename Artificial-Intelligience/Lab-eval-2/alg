@@ -1,0 +1,15 @@
+DFS (Depth-First Search):
+
+It starts from a given "start" node.
+Uses a stack to keep track of nodes to visit.
+Visits a node, marks it as visited, and processes it.
+Continues to explore deeper into a branch before backtracking.
+Uses a set to keep track of visited nodes.
+
+FS (Breadth-First Search):
+
+Also starts from a given "start" node.
+Uses a queue to manage the order of node exploration.
+Visits a node, marks it as visited, and processes it.
+Explores all neighbors of a node at the current level before moving to the next level.
+Also uses a set to keep track of visited nodes.
